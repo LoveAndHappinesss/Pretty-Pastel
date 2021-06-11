@@ -1,10 +1,20 @@
 {
     "name": "pretty-pastel",
     "displayName": "Pretty Pastel",
-    "description": "A theme for vscode with pretty pastel colours",
+    "description": "A theme for VSCode with pretty pastel colours",
+    "publisher": "Nathan Mortin",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.57.0"
+    },
+    "icon": "",
+    "author": {
+        "name": "Nathan Mortin",
+        "email": "nmortin@live.com"
+    },
+    "repository": {
+        "url": "https://github.com/LoveAndHappinesss/Pretty-Pastel.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
