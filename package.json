@@ -2,7 +2,7 @@
     "name": "pretty-pastel",
     "displayName": "Pretty Pastel",
     "description": "A theme for VSCode with pretty pastel colours",
-    "publisher": "Nathan Mortin",
+    "publisher": "NathanMortin",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.57.0"
