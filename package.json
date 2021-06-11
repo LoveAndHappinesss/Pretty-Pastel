@@ -1,0 +1,21 @@
+{
+    "name": "pretty-pastel",
+    "displayName": "Pretty Pastel",
+    "description": "A theme for vscode with pretty pastel colours",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pretty Pastel",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pretty Pastel-color-theme.json"
+            }
+        ]
+    }
+}
